@@ -33,7 +33,7 @@ Na figura 2, encontra-se a submissão aceita do exercício <br>
 
 ## Instalação 
 
-**Linguagem**:  C++<br>
+**Linguagem**:  node<br>
 
 
 
