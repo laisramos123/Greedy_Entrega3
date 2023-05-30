@@ -19,7 +19,7 @@ Os enunciados dos 2 exercícios podem ser encontrados na listagem abaixo:
 ## Screenshots
 
 Na figura 1, encontra-se a submissão aceita do exercício do número mínimo de taxis:
-<img src="">
+<img src="taxi/Captura de tela de 2023-05-29 21-43-36.png">
 <p align="center"></p>
 
 Na figura 2, encontra-se a submissão aceita do exercício <br>
