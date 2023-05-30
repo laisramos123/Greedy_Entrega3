@@ -34,15 +34,17 @@ Na figura 2, encontra-se a submissão aceita do exercício <br>
 ## Instalação 
 
 **Linguagem**:  node<br>
+python<br>
 
 
 
-### Instalação do node
+### Instalação do node e do python
 
 É necessário ter pré-instalados e configurados na sua máquina:
 - [node](https://nodejs.org/pt-br/download);
+- [python](https://www.python.org/downloads/);
 
-No **Windows**, para instalar o **node**, execute o instalador:
+No **Windows**, para instalar o **node** e o **python**, execute o instalador:
 
     
 
@@ -53,25 +55,10 @@ Após instalar as dependências do projeto, realize os seguintes comandos:
     git clone https://github.com/projeto-de-algoritmos/Greedy_Entrega3.git
 
 
-### Uso
 
-Agora o seu ambiente agora está configurado. Para testar os 2 exercícios desenvolvidos em Python, que estão nas pastas nomeados de:
--
-- 
 
-Basta entrar na pasta do exercício e digitar os comandos:
-
-    cd <nomePasta>
-    
-
-Pronto! O código está rodando e os exercícios podem ser testados.
-
-### Uso dos exercícios em Javascript
-    
-
-Pronto! O código está rodando e os exercícios podem ser testados.
 
 ## Vídeo
 
-O vídeo explicando o algoritmo e o funcionamento dele, pode ser encontrado no link a seguir:
-- [Vídeo]()
+O vídeo explicando o algoritmo e o funcionamento dele, se encontra na pasta video
+
