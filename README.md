@@ -7,18 +7,18 @@
 | Matrícula | Aluno |
 | -- | -- |
 | 17/0107574  | Laís Ramos Barbosa      |
-|  |  Taynara Cristina |
+| 21/1031833  |  Taynara Cristina |
 
 ## Sobre 
-A dupla decidiu realizar  exercícios do [](), que é um site com exercícios de programação com juízes online, para praticar o conteúdo de **Algoritmos Ambiciosos**.
+A dupla decidiu realizar  exercícios do [codewars](https://www.codewars.com/), que é um site com exercícios de programação com juízes online, para praticar o conteúdo de **Algoritmos Ambiciosos**.
 
 Os enunciados dos 2 exercícios podem ser encontrados na listagem abaixo:
 
-- 
+- [Taxi:](https://www.codewars.com/kata/5e1b37bcc5772a0028c50c5d/train/python)
 
 ## Screenshots
 
-Na figura 1, encontra-se a submissão aceita do 
+Na figura 1, encontra-se a submissão aceita do exercício do número mínimo de taxis:
 <img src="">
 <p align="center"></p>
 
